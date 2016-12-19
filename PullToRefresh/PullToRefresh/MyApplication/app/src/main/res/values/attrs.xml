@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProgressWheel">
+        <attr name="header_loading_progressIndeterminate" format="boolean" />
+        <attr name="header_loading_barColor" format="color" />
+        <attr name="header_loading_rimColor" format="color" />
+        <attr name="header_loading_rimWidth" format="dimension" />
+        <attr name="header_loading_spinSpeed" format="float" />
+        <attr name="header_loading_barSpinCycleTime" format="integer" />
+        <attr name="header_loading_circleRadius" format="dimension" />
+        <attr name="header_loading_fillRadius" format="boolean" />
+        <attr name="header_loading_barWidth" format="dimension" />
+        <attr name="header_loading_linearProgress" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="pullshowheader">
+        <attr name="showheader" format="boolean" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- 下拉刷新顶部的高度-->
+    <dimen name="pull_to_refresh_hegiht">56dp</dimen>
+    <dimen name="pull_to_refresh_gif_weight">175dp</dimen>
+</resources>
